@@ -11,7 +11,7 @@ app.config['JSON_SORT_KEYS'] = False
 
 @app.route('/')
 def index():
-    return "<h1>Windsor Framework API</h1>"
+    return "<h1>Windsor Framework Green Lanes Prototype API</h1>"
 
 
 @app.route('/subheadings/<goods_nomenclature_item_id>')

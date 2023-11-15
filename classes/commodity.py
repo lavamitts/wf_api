@@ -147,7 +147,7 @@ class Commodity:
                         measure.measure_generating_regulation_id)
 
     def get_regulations(self):
-        a = 1
+        return
 
     def get_wf_questions(self):
         self.question_objects = []
