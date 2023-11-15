@@ -262,8 +262,6 @@ class Commodity:
                                     self.decision = question.implies_wf_category
                                     decision_made = True
                                     break
-                                    a = 1
-                    a = 1
 
     def api_response(self):
         self.get_context()
